@@ -1,4 +1,4 @@
 # data-science-week-2 
--1hello
--2 bye
-# coucou 
+# - 1 
+## bye banana
+####### coucou 
